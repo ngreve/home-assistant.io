@@ -1,0 +1,13 @@
+---
+title: Full Changelog for Home Assistant Core 2023.7
+description: Detailed changelog for the Home Assistant Core 2023.7 release
+---
+
+These are all the changes included in the Home Assistant Core 2023.7 release.
+
+For a summary in a more readable format:
+[Release notes blog for this release](/blog/2023/06/08/release-20237/).
+
+## Full Changelog
+
+- Lorem ipsum
