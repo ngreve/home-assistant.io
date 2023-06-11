@@ -45,7 +45,7 @@ not be activated yet. Recent policy changes limit the API access for new registe
 | Language             | Language for receiving data (only for `sensor`)                                                                                                                                                                                            |
 
 The integration creates a weather entity as well as sensors for supported weather conditions.
-Selecting a `onecall` forecast mode with the free tier leverages the One Call API, resulting in updates every 5 minutes and is recommended for both hourly and daily forecast.
+Selecting a `onecall` forecast mode with the free tier leverages the One Call API, resulting in updates every 10 minutes and is recommended for both hourly and daily forecast.
 
 A `sensor` entity will be created for each supported condition. Their ids will follow the format: 
 
